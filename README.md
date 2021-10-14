@@ -1,6 +1,6 @@
 ![banner](https://github.com/0zym4ndias/Folders-Stuff/blob/main/Screen%20Shot%202021-10-12%20at%2020.18.53.png)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=0zym4ndiasa&label=Views&color=000000&style=metal" alt="Profile Views" /> </p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=0zym4ndias&label=Views&color=000000&style=metal" alt="Profile Views" /> </p> 
 
 ---
 
