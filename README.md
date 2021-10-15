@@ -37,10 +37,10 @@
 
 ### 💻 &nbsp;GitHub Analytics
 <a href="https://github.com/StuxnetPetya/StuxnetPetya">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=StuxnetPetya&show_icons=true&title_color=FFFF00&text_color=FFFF00&icon_color=2bbc8a&bg_color=000000&langs_count=3&include_all_commits=true&count_private=true" />
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=StuxnetPetya&show_icons=true&title_color=FFFF00&text_color=FFFFFF&icon_color=2bbc8a&bg_color=000000&langs_count=3&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/StuxnetPetya/StuxnetPetya">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StuxnetPetya&layout=compact&langs_count=7&count_private=true&title_color=FFFF00&text_color=FFFF00&icon_color=2bbc8a&bg_color=000000" alt="Roberto's GitHub Stats" />
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StuxnetPetya&layout=compact&langs_count=7&count_private=true&title_color=FFFF00&text_color=FFFFFF&icon_color=2bbc8a&bg_color=000000" alt="Roberto's GitHub Stats" />
 </a>
 
 ---
