@@ -18,7 +18,7 @@
 
 ---
 
-<img alt="Hacking" src="https://64.media.tumblr.com/0dce1cacc0c3f2f621a0dcf7ab609c07/tumblr_pt93fbJBKB1rldv4go1_1280.gif" align="center"/>
+<img alt="Hacking" src="https://i.imgur.com/U62mbJj.gif" align="center"/>
 
 ---
 
