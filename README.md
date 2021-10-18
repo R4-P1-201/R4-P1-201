@@ -51,4 +51,6 @@
   <a href="https://www.linkedin.com/in/roberto-abraham-p%C3%A9rez-iga-636906219" target="_blank"><img height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=FFFF00&color=000000" target="_blank"></a> 
 <a href="mailto:0zym4ndias@protonmail.com"><img height="30em" src="https://img.shields.io/badge/-0zym4ndias@protonmail.com-D14836?style=flat&logo=Protonmail&logoColor=FFFF00&color=000000"/></a>
  
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
