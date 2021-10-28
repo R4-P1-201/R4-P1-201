@@ -5,11 +5,11 @@
 ---
 
 ### 💻 &nbsp;About Me
-🖱 &nbsp;I´m passionate about cybersecurity and technology in general.\
+🖱 &nbsp;I'm passionate about cybersecurity and technology in general.\
 🐏 &nbsp;I'm currently studying Computer Science and Cybersecurity at Tecnologico de Monterrey.\
 🤓 &nbsp;Certified nerd.\
 🐙 &nbsp;GitKraken user.\
-💾 &nbsp;I´m currently learning Python, C++, Golang, MySQL and bash.\
+💾 &nbsp;I'm currently learning Python, C++, Golang, MySQL and bash.\
 💻 &nbsp;Shell that I use: Zsh and Powershell.\
 🐧 &nbsp;I'm a Linux and open source enthusiast.\
 📁 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1Pl5kk3pea9mb_i4qZZFa-Rfyxbk0Kr1c/view?usp=sharing) for more information about me.\
