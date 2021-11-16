@@ -1,4 +1,4 @@
-![banner](https://github.com/StuxnetPetya/Folders-Stuff/blob/main/Screen%20Shot%202021-11-14%20at%2020.07.01.png)
+![banner](https://github.com/StuxnetPetya/Folders-Stuff/blob/main/Screen%20Shot%202021-11-16%20at%2015.27.49.png)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0zym4ndias&label=Views&color=000000&style=metal" alt="Profile Views" /> </p> 
 
