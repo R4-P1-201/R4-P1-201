@@ -1,6 +1,6 @@
 ![banner](https://github.com/StuxnetPetya/Folders-Stuff/blob/main/Screen%20Shot%202021-11-23%20at%2013.25.28.png)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=0zym4ndias&label=Views&color=C0C0C0&style=metal" alt="Profile Views" /> </p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=0zym4ndias&label=Views&color=000000&style=metal" alt="Profile Views" /> </p> 
 
 ---
 
