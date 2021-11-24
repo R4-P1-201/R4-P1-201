@@ -18,8 +18,9 @@
 
 ---
 
-<img alt="Hacking" src="https://media0.giphy.com/media/nlk3Y1u3r1n5C/giphy.gif" align="right"/>
+<img alt="Hacking" src="https://media0.giphy.com/media/nlk3Y1u3r1n5C/giphy.gif" align="center"/>
 
+---
 
 ### 💾 &nbsp;Tech Stack
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=D4AF37&color=000000)
@@ -33,8 +34,9 @@
 
 ---
 
-<img alt="Hacking" src="https://cdn.thingiverse.com/assets/1c/35/53/44/ca/kanedas-bike.gif" align="right"/>
+<img alt="Hacking" src="https://cdn.thingiverse.com/assets/1c/35/53/44/ca/kanedas-bike.gif" align="center"/>
 
+---
 
 ### 💻 &nbsp;GitHub Analytics
 <a href="https://github.com/StuxnetPetya/StuxnetPetya">
