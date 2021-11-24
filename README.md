@@ -1,6 +1,6 @@
 ![banner](https://github.com/StuxnetPetya/Folders-Stuff/blob/main/Screen%20Shot%202021-11-23%20at%2013.25.28.png)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=0zym4ndias&label=Views&color=D4AF37&style=metal" alt="Profile Views" /> </p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=0zym4ndias&label=Views&color=C0C0C0&style=metal" alt="Profile Views" /> </p> 
 
 ---
 
@@ -23,14 +23,14 @@
 ---
 
 ### 💾 &nbsp;Tech Stack
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=D4AF37&color=000000)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=D4AF37&color=000000)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=D4AF37&color=000000)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=D4AF37&color=000000)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=D4AF37&color=000000)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=D4AF37&color=000000)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=D4AF37&color=000000)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=D4AF37&color=000000)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=C0C0C0&color=000000)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=C0C0C0&color=000000)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=C0C0C0&color=000000)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=C0C0C0&color=000000)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=C0C0C0&color=000000)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=C0C0C0&color=000000)
+![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=C0C0C0&color=000000)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=C0C0C0&color=000000)
 
 ---
 
@@ -40,19 +40,19 @@
 
 ### 💻 &nbsp;GitHub Analytics
 <a href="https://github.com/StuxnetPetya/StuxnetPetya">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=StuxnetPetya&show_icons=true&title_color=D4AF37&text_color=D4AF37&icon_color=2bbc8a&bg_color=000000&langs_count=3&include_all_commits=true&count_private=true" />
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=StuxnetPetya&show_icons=true&title_color=C0C0C0&text_color=C0C0C0&icon_color=2bbc8a&bg_color=000000&langs_count=3&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/StuxnetPetya/StuxnetPetya">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StuxnetPetya&layout=compact&langs_count=7&count_private=true&title_color=D4AF37&text_color=D4AF37&icon_color=2bbc8a&bg_color=000000" alt="Roberto's GitHub Stats" />
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StuxnetPetya&layout=compact&langs_count=7&count_private=true&title_color=C0C0C0&text_color=C0C0C0&icon_color=2bbc8a&bg_color=000000" alt="Roberto's GitHub Stats" />
 </a>
 
 ---
 
 ### 📌 &nbsp;Connect with Me
 <div> 
- <a href="https://discord.gg/9pvuH5eSsH" target="_blank"><img height="30em" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=D4AF37&color=000000" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/roberto-abraham-p%C3%A9rez-iga-636906219" target="_blank"><img height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=D4AF37&color=000000" target="_blank"></a> 
-<a href="mailto:StuxnetPetya@protonmail.com"><img height="30em" src="https://img.shields.io/badge/-StuxnetPetya@protonmail.com-D14836?style=flat&logo=Protonmail&logoColor=D4AF37&color=000000"/></a>
+ <a href="https://discord.gg/9pvuH5eSsH" target="_blank"><img height="30em" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=C0C0C0&color=000000" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/roberto-abraham-p%C3%A9rez-iga-636906219" target="_blank"><img height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=C0C0C0&color=000000" target="_blank"></a> 
+<a href="mailto:StuxnetPetya@protonmail.com"><img height="30em" src="https://img.shields.io/badge/-StuxnetPetya@protonmail.com-D14836?style=flat&logo=Protonmail&logoColor=C0C0C0&color=000000"/></a>
   
  ---
  
