@@ -14,7 +14,7 @@
 🐧 &nbsp;I'm a Linux and open source enthusiast.\
 📁 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1Pl5kk3pea9mb_i4qZZFa-Rfyxbk0Kr1c/view?usp=sharing) for more information about me.\
 🗂 &nbsp;My certificates: [GitHub](https://drive.google.com/file/d/1gBv8aaTgSyE8DS3Whqzo1nMuUn-GKxfL/view?usp=sharing) | [kuniuchu](https://drive.google.com/file/d/1xM6ta_1x216e-PIwyFyVuF7eNYzza5Kt/view?usp=sharing).\
-📩 &nbsp;You can contact me at my email 0zym4ndias@protonmail.com!
+📩 &nbsp;You can contact me at my email StuxnetPetya@protonmail.com!
 
 ---
 
