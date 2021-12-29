@@ -18,7 +18,7 @@
 
 ---
 
-<img alt="Hacking" src="https://giffiles.alphacoders.com/174/1744.gif" align="center"/>
+<img alt="Hacking" src="https://thumbs.gfycat.com/AmusingAntiqueEmu-size_restricted.gif" align="center"/>
 
 ---
 
