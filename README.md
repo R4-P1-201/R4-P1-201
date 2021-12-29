@@ -28,10 +28,6 @@
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=4F97A3&color=000000)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=4F97A3&color=000000)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=4F97A3&color=000000)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=4F97A3&color=000000)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=4F97A3&color=000000)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=4F97A3&color=000000)
-
 ---
 
 ### 💻 &nbsp;GitHub Analytics
