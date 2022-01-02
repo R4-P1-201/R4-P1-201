@@ -2,8 +2,24 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0zym4ndias&label=Views&color=000000&style=metal" alt="Profile Views" /> </p> 
 
+                \.   \.      __,-"-.__      ./   ./
+            \.   \`.  \`.-'"" _,="=._ ""`-.'/  .'/   ./
+             \`.  \_`-''      _,="=._      ``-'_/  .'/
+              \ `-',-._   _.  _,="=._  ,_   _.-,`-' /
+           \. /`,-',-._"""  \ _,="=._ /  """_.-,`-,'\ ./
+            \`-'  /    `-._  "       "  _.-'    \  `-'/
+            /)   (         \    ,-.    /         )   (\
+         ,-'"     `-.       \  /   \  /       .-'     "`-,       ______  ___       ______  __        _____  _____  __  
+       , _._         `-.____/ /  _  \ \____.-'         _._`,     | ___ \/   |      | ___ \/  |      / __  \|  _  |/  | 
+      /,'   `.                \_/ \_/                .'   `,\    | |_/ / /| |______| |_/ /`| |______`' / /'| |/' |`| | 
+     /'       )                  _                  (       `\   |    / /_| |______|  __/  | |______| / /  |  /| | | | 
+             /   _,-'"`-.  ,++|T|||T|++.  .-'"`-,_   \           | |\ \___  |      | |    _| |_     ./ /___\ |_/ /_| |_
+            / ,-'        \/|`|`|`|'|'|'|\/        `-, \          \_| \_|  |_/      \_|    \___/     \_____/ \___/ \___/
+           /,'             | | | | | | |             `,\
+          /'               ` | | | | | '               `\
+                             ` | | | '
+                               ` | '
 ---
-
 ### 💻 &nbsp;About Me
 🖱 &nbsp;I'm passionate about cybersecurity and technology in general.\
 🐏 &nbsp;I'm currently studying Computer Science and Cybersecurity at Tecnologico de Monterrey.\
@@ -49,5 +65,6 @@
  ---
  
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
   
 </div>
