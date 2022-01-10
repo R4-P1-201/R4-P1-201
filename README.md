@@ -1,4 +1,4 @@
-![banner](https://github.com/R4-P1-201/Folders-Stuff/blob/main/Screen%20Shot%202021-12-29%20at%2016.38.21.png)
+![banner](https://github.com/R4-P1-201/Folders-Stuff/blob/main/Screen%20Shot%202022-01-10%20at%200.39.12.png)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0zym4ndias&label=Views&color=000000&style=metal" alt="Profile Views" /> </p> 
 
@@ -14,11 +14,11 @@
       /,'   `.                \_/ \_/                .'   `,\    | |_/ / /| |______| |_/ /`| |______`' / /'| |/' |`| | 
      /'       )                  _                  (       `\   |    / /_| |______|  __/  | |______| / /  |  /| | | | 
              /   _,-'"`-.  ,++|T|||T|++.  .-'"`-,_   \           | |\ \___  |      | |    _| |_     ./ /___\ |_/ /_| |_
-            / ,-'        \/|`|`|`|'|'|'|\/        `-, \          \_| \_|  |_/      \_|    \___/     \_____/ \___/ \___/
-           /,'             | | | | | | |             `,\
-          /'               ` | | | | | '               `\
-                             ` | | | '
-                               ` | '
+            / ,-'      \  /|_|`|_|'|_|'|\  /      `-, \          \_| \_|  |_/      \_|    \___/     \_____/ \___/ \___/
+           /,'          \/               \/          `,\
+          /'                                           `\
+
+
 ---
 ### 💻 &nbsp;About Me
 🖱 &nbsp;I'm passionate about cybersecurity and technology in general.\
