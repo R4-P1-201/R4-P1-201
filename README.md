@@ -59,7 +59,7 @@
 ### 📌 &nbsp;Connect with Me
 <div> 
  <a href="https://discord.gg/9pvuH5eSsH" target="_blank"><img height="30em" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=4F97A3&color=000000" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/roberto-abraham-p%C3%A9rez-iga-636906219" target="_blank"><img height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=4F97A3&color=000000" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/roberto-abraham-p%C3%A9rez-iga-b93648229/" target="_blank"><img height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=4F97A3&color=000000" target="_blank"></a> 
 <a href="mailto:R4.P1.201@protonmail.com"><img height="30em" src="https://img.shields.io/badge/-R4.P1.201@protonmail.com-D14836?style=flat&logo=Protonmail&logoColor=4F97A3&color=000000"/></a>
   
  ---
