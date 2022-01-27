@@ -39,28 +39,28 @@
 ---
 
 ### 💾 &nbsp;Tech Stack
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=4F97A3&color=000000)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=4F97A3&color=000000)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=4F97A3&color=000000)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=4F97A3&color=000000)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=4F97A3&color=000000)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=B90E0A&color=000000)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=B90E0A&color=000000)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=B90E0A&color=000000)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=B90E0A&color=000000)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=B90E0A&color=000000)
 ---
 
 ### 💻 &nbsp;GitHub Analytics
 <a href="https://github.com/R4-P1-201/R4-P1-201">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=R4-P1-201&show_icons=true&title_color=4F97A3&text_color=C0C0C0&icon_color=2bbc8a&bg_color=000000&langs_count=3&include_all_commits=true&count_private=true" />
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=R4-P1-201&show_icons=true&title_color=B90E0A&text_color=C0C0C0&icon_color=2bbc8a&bg_color=000000&langs_count=3&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/R4-P1-201/R4-P1-201">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4-P1-201&layout=compact&langs_count=7&count_private=true&title_color=4F97A3&text_color=C0C0C0&icon_color=2bbc8a&bg_color=000000" alt="Robert's GitHub Stats" />
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4-P1-201&layout=compact&langs_count=7&count_private=true&title_color=B90E0A&text_color=C0C0C0&icon_color=2bbc8a&bg_color=000000" alt="Robert's GitHub Stats" />
 </a>
 
 ---
 
 ### 📌 &nbsp;Connect with Me
 <div> 
- <a href="https://discord.gg/9pvuH5eSsH" target="_blank"><img height="30em" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=4F97A3&color=000000" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/roberto-abraham-p%C3%A9rez-iga-b93648229/" target="_blank"><img height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=4F97A3&color=000000" target="_blank"></a> 
-<a href="mailto:R4.P1.201@protonmail.com"><img height="30em" src="https://img.shields.io/badge/-R4.P1.201@protonmail.com-D14836?style=flat&logo=Protonmail&logoColor=4F97A3&color=000000"/></a>
+ <a href="https://discord.gg/9pvuH5eSsH" target="_blank"><img height="30em" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=B90E0A&color=000000" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/roberto-abraham-p%C3%A9rez-iga-b93648229/" target="_blank"><img height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=B90E0A&color=000000" target="_blank"></a> 
+<a href="mailto:R4.P1.201@protonmail.com"><img height="30em" src="https://img.shields.io/badge/-R4.P1.201@protonmail.com-D14836?style=flat&logo=Protonmail&logoColor=B90E0A&color=000000"/></a>
   
  ---
  
