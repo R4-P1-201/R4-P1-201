@@ -1,4 +1,4 @@
-![banner](https://github.com/R4-P1-201/Folders-Stuff/blob/main/Screen%20Shot%202022-04-02%20at%2015.04.48.png)
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0zym4ndias&label=Views&color=1D2951&style=metal" alt="Profile Views" /> </p> 
 
